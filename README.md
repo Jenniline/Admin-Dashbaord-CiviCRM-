@@ -10,3 +10,5 @@ It contains sections such as
 Student login, logout
 Teachers have a section for creating courses and grading etc
 Students have a section for registering for courses,viewing their Grades etc
+
+Further contributions made by [Stephan-MC](https://github.com/Stephan-MC)
